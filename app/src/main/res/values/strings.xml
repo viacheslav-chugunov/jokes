@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Угарные приколы</string>
+    <string name="no_internet">Не удалось подключиться к интернету</string>
+    <string name="next_joke">Следующий</string>
+    <string name="prev_joke">Предыдущий</string>
+    <string name="send_joke">Отправить прикол</string>
+</resources>

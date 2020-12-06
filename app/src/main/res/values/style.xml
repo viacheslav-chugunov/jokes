@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BlackText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+
+        <item name="android:shadowColor">?attr/colorPrimary</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="WhiteText" parent="BlackText">
+        <item name="android:shadowColor">?attr/colorOnPrimary</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="Button" parent="BlackText">
+        <item name="android:background">@drawable/shape_button</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_100">#e5e5e5</color>
+    <color name="black_200">#cccccc</color>
+    <color name="black_300">#b2b2b2</color>
+    <color name="black_400">#999999</color>
+    <color name="black_500">#7f7f7f</color>
+    <color name="black_600">#666666</color>
+    <color name="black_700">#4c4c4c</color>
+    <color name="black_800">#323232</color>
+    <color name="black_900">#191919</color>
+    <color name="black_1000">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
